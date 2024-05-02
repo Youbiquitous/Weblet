@@ -1,0 +1,28 @@
+﻿
+
+/* Colors of the default YBQ theme */
+
+:root {
+    /* BOOTSTRAP context colors */
+    --app-primary: #5b73e8;
+    --app-secondary: #74788d;
+    --app-success: #34c38f;
+    --app-info: #50a5f1;
+    --app-warning: #f1b44c;
+    --app-danger: #f46a6a;
+        --app-dark: #343a40;
+
+
+    /* Standard scales of gray */
+    --app-lightgrey: #d8d8d8;
+    --app-grey: #aaa;
+    --app-darkgrey: #555;
+    --app-light: #f5f6f8;
+    --app-black: #000000;
+    --app-white: #ffffff;
+
+    /* Additional context colors */
+    --app-hover: #E8F1F2;
+    --app-hilite: rgba(255, 220, 100, .8);
+    --app-input-focus: #E8F1F2;
+}
